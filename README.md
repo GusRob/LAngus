@@ -8,10 +8,10 @@ The first step will involve researching the steps necessary to create a language
 
 
 Before starting, a list of basic ideas for what needs to be decided about this project :
-  compiled or interpreted? -
-  language used to write it? -
+  - compiled or interpreted? -
+  - language used to write it? -
 
 
 What are the stages in writing a program -> something happening? obviously the final state of the program would be machine code for the computer to interpret
-  basic idea before research is:
-    program ->[lexer]-> token list ->[parser]-> abstract syntax tree ->[???]-> action tree ->[???]-> machine code/assembly
+    basic idea before research is:
+    > program ->[lexer]-> token list ->[parser]-> abstract syntax tree ->[???]-> action tree ->[???]-> machine code/assembly
