@@ -12,6 +12,6 @@ Before starting, a list of basic ideas for what needs to be decided about this p
   - language used to write it? -
 
 
-What are the stages in writing a program -> something happening? obviously the final state of the program would be machine code for the computer to interpret. 
+What are the stages in writing a program -> something happening? obviously the final state of the program would be machine code for the computer to interpret.  
     basic idea before research is:  
     program ->[lexer]-> token list ->[parser]-> abstract syntax tree ->[???]-> action tree ->[???]-> machine code/assembly. 
